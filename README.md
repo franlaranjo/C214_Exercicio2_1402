@@ -24,5 +24,5 @@
 
 Para clonar o repositório em algum lugar na sua máquina, basta utilizar o comando abaixo:
 ```bash
-$ git clone https://github.com/franlaranjo/c214-lab.git
+$ git clone https://github.com/franlaranjo/C214_Exercicio2_1402.git
 ```
