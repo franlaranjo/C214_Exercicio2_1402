@@ -1,5 +1,5 @@
 # Engenharia de Software - LAB
-[![CI](https://github.com/franlaranjo/c214-lab/actions/workflows/main.yml/badge.svg)](https://github.com/franlaranjo/c214-lab/actions/workflows/main.yml)
+[![CI](https://github.com/franlaranjo/c214-lab/actions/workflows/dev.yml/badge.svg)](https://github.com/franlaranjo/c214-lab/actions/workflows/dev.yml)
 
 
 - [Sobre](#-sobre)
