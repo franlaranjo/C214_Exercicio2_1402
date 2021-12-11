@@ -17,7 +17,6 @@
     - Gerencia de dependências para instalar uma biblioteca de testes;
     - Testes unitários baseados em funções e um teste mock.
     - Implementação de CI
-    - Design Pattern Criacional
 ---
 
 ### Clonando repositório
