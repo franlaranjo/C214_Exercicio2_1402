@@ -18,6 +18,7 @@
     - Testes unitários baseados em funções e um teste mock.
     - Implementação de CI
 ---
+## 💻 Como executar
 
 ### Clonando repositório
 
